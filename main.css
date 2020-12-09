@@ -26,7 +26,7 @@ img {
     height: 200px;
     text-align: center;
     margin-top: 10pt;
-    margin-left: 37pt;
+    margin-left: 42pt;
     border-radius: 50%;
 }
 #text-input {
@@ -34,6 +34,7 @@ img {
     min-height: 20vh;
     width: 85%;
     margin: 1rem;
+    margin-left: 27px;
     padding: 1rem;
     font-family: 'Lobster', cursive;
     font-size: large;
@@ -43,6 +44,7 @@ img {
     display: block;
     padding: 1rem;
     margin: 1rem;
+    margin-left: 27px;
     width: 85%;
     height: 20vh;
     border: 2px solid black;
@@ -52,11 +54,13 @@ img {
 }
 main {
     margin: 1rem;
+    margin-left: 27px;
     font-size: large;
     font-family: 'Lobster', cursive;
 }
 button {
     margin: 1rem;
+    margin-left: 27px;
     padding: 1rem;
     color: var(--primary-color);
     background-color: var(--light-blue);
